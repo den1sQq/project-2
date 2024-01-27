@@ -1,0 +1,69 @@
+ /* section 5 stories */
+/* 
+ .stories{
+   max-width: 1400px;
+   margin: 0 auto;
+   padding: 0px 15px;
+ }
+
+ .stories__title{
+   font-size: 38px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 119.2%;
+   color: var(--color-base);
+ }
+
+ .stories__desc{
+  font-size: 18px;
+  color: var(--color-grey-white);
+ }
+
+ .stories__name-surname{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+ }
+
+  .stories__img{
+   display: inline-block;
+   content: "";
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   border-radius: 50px;
+  } */
+\
+<section class="stories">
+            <div class="stories__container">
+               <div class="stories__container-one">
+                  <h3 class="stories__title">3Kg lost!</h3>
+                  <img src="./assets/img/Real stories copy.png" alt="">
+                  <h5 class="stories__desc">has been an incredible journey! The dedication to a healthier lifestyle paid off, and I feel more energized and confident. Grateful for the progress and excited for more!</h5>
+                  <div class="stories__name-surname">
+                  <img src="./assets/img/peoplegym/guy.png" alt="guy" class="stories__img" width="70" height="s">
+                  <strong class="name">James John</strong>
+                  </div>
+               </div>
+               <div class="stories__container">
+                  <div class="stories__container-two">
+                     <h3 class="stories__title">3Kg lost!</h3>
+                     <img src="./assets/img/Real stories copy.png" alt="">
+                     <h5 class="stories__desc">has been an incredible journey! The dedication to a healthier lifestyle paid off, and I feel more energized and confident. Grateful for the progress and excited for more!</h5>
+                     <div class="stories__name-surname">
+                     <img src="./assets/img/peoplegym/girl3.png" alt="guy" class="stories__img" width="70" height="70">
+                     <strong class="name">Mary Patricia</strong>
+                     </div>
+                  </div>
+                  <div class="stories__container">
+                     <div class="stories__container-three">
+                        <h3 class="stories__title">3Kg lost!</h3>
+                        <img src="./assets/img/Real stories copy.png" alt="">
+                        <h5 class="stories__desc">has been an incredible journey! The dedication to a healthier lifestyle paid off, and I feel more energized and confident. Grateful for the progress and excited for more!</h5>
+                        <div class="stories__name-surname">
+                        <img src="./assets/img/peoplegym/guywithglasses.png" alt="guy" class="stories__img" width="70" height="70">
+                        <strong class="name">Robert Micheal</strong>
+                        </div>
+                     </div>
+             </div>
+            </section>
